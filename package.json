@@ -1,0 +1,26 @@
+{
+  "name": "lrm-bootstrap4-firebase",
+  "version": "1.0.0",
+  "description": "Left/Right Music website update with Bootstrap 4.0.0 and Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/odmustafa/lrm-bootstrap4-firebase.git"
+  },
+  "keywords": [
+    "bootstrap-4.0.0",
+    "firebase"
+  ],
+  "author": "Omar Mustafa",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/odmustafa/lrm-bootstrap4-firebase/issues"
+  },
+  "homepage": "https://github.com/odmustafa/lrm-bootstrap4-firebase#readme",
+  "dependencies": {
+    "firebase": "^4.10.0"
+  }
+}
